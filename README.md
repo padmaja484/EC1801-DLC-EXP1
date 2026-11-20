@@ -123,10 +123,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-
-<img width="1920" height="1080" alt="Experiment-4(mux_demux v)" src="https://github.com/user-attachments/assets/5733a603-632d-4948-a161-507bf0eb1b69" />
-
-<img width="1920" height="1080" alt="Experiment-4(tb4 v)" src="https://github.com/user-attachments/assets/0803cf6f-73c3-4933-80f9-5e84ae3bc18a" />
+<img width="1920" height="1080" alt="Experiment-1" src="https://github.com/user-attachments/assets/2cce13d7-b3b6-422d-a1a0-ad25e1733a1d" />
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 7. Viva-Voce Questions
